@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hey there 👋 ,Im Mohamed Nasr</h1>
+<h1 align="center">Hey there ,Im Mohamed Nasr</h1>
 </div>
 
 ###
@@ -15,15 +15,15 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left"> About Me</h3>
 
 ###
 
 <p align="left">
 I'm Mohammed Nasr, a passionate Computer and Control Systems Engineering student at Mansoura University, graduating in 2025.<br><br>
-- 🔭 I’m currently working on my graduation project, **Fadfadly**, a psychological support app leveraging web and mobile technologies.<br>
-- 📚 I’m currently learning advanced front-end development with React and Tailwind CSS, and enhancing my back-end skills with Laravel and PHP.<br>
-- ⚡ In my free time, I participate in hackathons, contribute to personal projects, and explore web development trends.<br>
+-  I’m currently working on my graduation project, **Fadfadly**, a psychological support app leveraging web and mobile technologies.<br>
+-  I’m currently learning advanced front-end development with React and Tailwind CSS, and enhancing my back-end skills with Laravel and PHP.<br>
+-  In my free time, I participate in hackathons, contribute to personal projects, and explore web development trends.<br>
 </p>
 
 ###
