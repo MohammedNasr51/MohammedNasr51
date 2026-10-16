@@ -1,12 +1,13 @@
 <!-- GitHub profile README: github.com/MohammedNasr51 -->
-<!-- The animated header, skill icons, and activity cards are served by third parties. -->
+<!-- Self-hosted header, footer, typing GIF, and scheduled GitHub metrics; technology badges/icons use external image providers. -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:7C3AED&height=225&section=header&text=Mohamed%20Nasr&fontSize=54&fontColor=FFFFFF&fontAlignY=37&desc=Front-End%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=58&descSize=19&animation=fadeIn" alt="Mohamed Nasr — Front-End Developer" />
+<img width="100%" src="./assets/header.svg" alt="Mohamed Nasr — Front-End Developer | React and TypeScript" />
 
+<!-- Local animated GIF: independent of readme-typing-svg.demolab.com uptime -->
 <a href="https://github.com/MohammedNasr51">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=670&amp;height=48&amp;lines=Building+thoughtful+web+experiences;React+%2B+TypeScript+%2B+modern+front-end;Turning+ideas+into+interactive+products" alt="Animated introduction" />
+  <img src="assets/typing-intro.gif" width="670" alt="Animated introduction: Building thoughtful web experiences; React and TypeScript; Turning ideas into interactive products" />
 </a>
 
 <p>
@@ -133,21 +134,19 @@ A collaborative inventory application built with **vanilla JavaScript (ES6+)**, 
 
 <div align="center">
 
+<!-- Generated daily by .github/workflows/profile-metrics.yml and committed to this repository. -->
 <a href="https://github.com/MohammedNasr51">
-  <img height="190" src="https://streak-stats.demolab.com/?user=MohammedNasr51&theme=tokyonight&hide_border=true&border_radius=10&mode=daily" alt="MohammedNasr51 GitHub contribution streak" />
+  <img width="48%" src="./output/tokyonight/streak.svg" alt="MohammedNasr51's GitHub contribution streak" />
+</a>
+<a href="https://github.com/MohammedNasr51">
+  <img width="48%" src="./output/tokyonight/stats.svg" alt="MohammedNasr51's GitHub contribution statistics" />
 </a>
 
 <a href="https://github.com/MohammedNasr51">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=MohammedNasr51&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="MohammedNasr51 GitHub statistics" />
+  <img width="98%" src="./output/tokyonight/contributions.svg" alt="MohammedNasr51's contribution activity over the last year" />
 </a>
 
-<br />
-
-<a href="https://github.com/MohammedNasr51">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedNasr51&theme=tokyo-night&hide_border=true&area=true" alt="MohammedNasr51 GitHub contribution activity graph" />
-</a>
-
-<sub>These visuals update from public GitHub activity via third-party services; they may occasionally be unavailable or cached.</sub>
+<sub>Stats are generated from real public GitHub contributions by a scheduled GitHub Action. Run the workflow once after uploading to replace the setup placeholders. Private contributions require additional permissions.</sub>
 
 </div>
 
@@ -169,6 +168,6 @@ A collaborative inventory application built with **vanilla JavaScript (ES6+)**, 
 <a href="https://www.linkedin.com/in/mnasr2002/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:mnasr0868@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:7C3AED&height=110&section=footer" alt="Colorful wave footer" />
+<img width="100%" src="./assets/footer.svg" alt="Colorful blue and purple wave footer" />
 
 </div>
