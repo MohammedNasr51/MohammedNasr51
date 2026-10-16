@@ -133,14 +133,15 @@ A collaborative inventory application built with **vanilla JavaScript (ES6+)**, 
 ## 📈 GitHub Activity
 
 <div align="center">
+  <div style="display:flex;gap:4;">
 <a href="https://github.com/MohammedNasr51">
-  <img height="190" src="https://streak-stats.demolab.com/?user=MohammedNasr51&theme=tokyonight&hide_border=true&border_radius=10&mode=daily" alt="MohammedNasr51 GitHub contribution streak" />
+  <img height="190" width="48%" src="https://streak-stats.demolab.com/?user=MohammedNasr51&theme=tokyonight&hide_border=true&border_radius=10&mode=daily" alt="MohammedNasr51 GitHub contribution streak" />
 </a>
 
 <a href="https://github.com/MohammedNasr51">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=MohammedNasr51&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="MohammedNasr51 GitHub statistics" />
+  <img height="190" width="48%" src="https://github-readme-stats.vercel.app/api?username=MohammedNasr51&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="MohammedNasr51 GitHub statistics" />
 </a>
-
+</div>
 <br />
 <!-- Generated daily by .github/workflows/profile-metrics.yml and committed to this repository. -->
 <a href="https://github.com/MohammedNasr51">
