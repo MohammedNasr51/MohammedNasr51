@@ -1,168 +1,113 @@
 <div align="center">
 
-# Hi, I'm Mohamed Nasr 👋
+# Mohamed Nasr
 
-### Front-End Developer | React.js & TypeScript
+**Front-End Developer | React.js & TypeScript**
 
-I build responsive, maintainable web applications with a focus on
-**React.js • TypeScript • REST APIs • State Management • Reusable UI Architecture**
+Building responsive, maintainable web applications with thoughtful user experiences, reusable components, and reliable API integrations.
 
-<a href="https://www.linkedin.com/in/mnasr2002/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mnasr0868@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mnasr2002/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mnasr0868@gmail.com)
 
 </div>
 
----
+## About me
 
-## 👨‍💻 About Me
+I'm a **Front-End Developer** and a graduate of **Computers and Control Systems Engineering at Mansoura University**. My experience includes a front-end internship at **Huma-volve**, the **ITI MERN Stack Intensive Training Program**, and back-end training through **DEPI**.
 
-I'm a **Front-End Developer** and a graduate of **Computers and Control Systems Engineering at Mansoura University**.
+I enjoy turning complex product requirements into clear interfaces and connecting them to real application workflows. My strongest interests are **React and TypeScript**, server-state management, API integration, authentication, and maintainable front-end architecture. I also have hands-on exposure to **Node.js, Express, MongoDB, and Laravel**.
 
-My experience comes from professional training, internships, and collaborative projects, with a primary focus on building responsive web applications and integrating modern front-end interfaces with REST APIs.
+## Technical skills
 
-* 🎓 Completed the **MERN Stack Intensive Training Program at ITI**
-* 💻 Worked as a **Front-End Developer Intern at Huma-volve**
-* ⚙️ Completed a **Back-End Developer Internship through DEPI**
-* 🚀 Experienced with **React.js, TypeScript, Tailwind CSS, Redux Toolkit, TanStack Query, REST APIs, and reusable component development**
-* 🌱 Currently strengthening my knowledge of **front-end architecture, testing, accessibility, and performance**
+| Area | Technologies |
+| --- | --- |
+| **Front end** | JavaScript (ES6+), TypeScript, React, HTML, CSS, Tailwind CSS, Bootstrap |
+| **Application development** | React Router, TanStack Query, Redux Toolkit, Context API, Axios, REST APIs |
+| **Forms & UX** | Formik, Yup, responsive design, internationalization (i18n), RTL interfaces |
+| **Back-end experience** | Node.js, Express, MongoDB, PHP, Laravel, MySQL |
+| **Tools** | Git, GitHub, Vite, Postman, VS Code |
 
----
+## Selected projects
 
-## 🛠️ Tech Stack
+### [ByWay — Learning Management System](https://github.com/MohammedNasr51/round-5-front-ByWay)
 
-### Front-End
+**React · TypeScript · TanStack Query · Axios · Tailwind CSS · i18next**  
+*Front-End Developer — Huma-volve team project*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,bootstrap,vite" />
-</p>
+An online learning platform with learner, instructor, and administrator experiences.
 
-### State, APIs & Forms
+**My contributions:** Integrated instructor course and lesson management, profile and review workflows, and revenue-related interfaces with Laravel REST APIs. Worked on reusable API utilities, TanStack Query mutations and optimistic updates, and Arabic/English localization with RTL support.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=redux" />
-</p>
+[View code](https://github.com/MohammedNasr51/round-5-front-ByWay) · [Example contribution](https://github.com/Huma-volve/round-5-front-ByWay/pull/28)
 
-**Redux Toolkit • TanStack Query • Context API • REST APIs • Axios • Formik • Yup**
+### [Safarni — Travel Booking Platform](https://github.com/MohammedNasr51/round-5-front-Safarni)
 
-### Back-End Experience
+**React · TypeScript · Tailwind CSS · Axios · TanStack Query**  
+*Front-End Developer — Huma-volve team project*
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,php,laravel,mysql" />
-</p>
+A travel platform with tour discovery, booking interfaces, accommodation options, and car rental flows.
 
-### Development Tools
+**My contributions:** Developed authentication UI and API flows for registration, sign-in, password recovery and verification. Integrated Google OAuth, improved validation and error handling, and refined responsive authentication pages and navigation.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+[View code](https://github.com/MohammedNasr51/round-5-front-Safarni) · [Example contribution](https://github.com/Huma-volve/round-5-front-Safarni/pull/3)
 
----
+### [Fadfadly — Community & Well-being Platform](https://github.com/MohammedNasr51/Fad-Fadly)
 
-## 🚀 Featured Projects
+**React · Tailwind CSS · React Query · Laravel APIs**  
+*Graduation project*
 
-### 🧠 Fadfadly — Psychological Support Web Application
+A web platform combining community posts and comments, mood and habit tracking, blogging, and real-time notifications. The React front end communicates with Laravel services and uses Laravel Echo for notification events.
 
-A psychological support platform with AI-assisted functionality and interactive community features.
+[View code](https://github.com/MohammedNasr51/Fad-Fadly)
 
-**Key Features**
+### [ConstLedger — Contract & Finance Management](https://github.com/MohammedNasr51/constledger)
 
-* Responsive interfaces built with **React.js and Tailwind CSS**
-* AI-powered chatbot integration
-* Role-based authentication and user management
-* Posts, comments, and reactions
-* Reusable UI components
+**Node.js · Express · MongoDB · TypeScript · React**  
+*ITI collaborative capstone project*
 
-**Tech:** React.js • Tailwind CSS • REST APIs • Authentication
+A back-end-focused system for contract processing, AI-assisted information extraction, financial planning, and reporting. The repository contains separate core and AI backend services, alongside a React frontend scaffold.
 
-[View Repository](https://github.com/MohammedNasr51/Fad-Fadly)
+[View code](https://github.com/MohammedNasr51/constledger)
 
----
+### [InvenTrack — Inventory Management System](https://github.com/MohammedNasr51/Inventory-System)
 
-### 🎓 ByWay — Online Learning Management System
+**JavaScript (ES6+) · Vite · Bootstrap · REST APIs**  
+*Collaborative project*
 
-An online learning platform developed during my **Huma-volve Front-End Internship**.
+An inventory management application covering products, suppliers, purchase orders, and stock tracking. Built with modular vanilla JavaScript and client-side routing.
 
-**Key Features**
+[View code](https://github.com/MohammedNasr51/Inventory-System)
 
-* Login, registration, password reset, and social authentication
-* Course browsing, filtering, favorites, carts, and reviews
-* Instructor and admin dashboards
-* Front-end payment workflows supporting **Stripe, Fawry, and E-Wallet**
-* REST API integration
+## Experience & training
 
-**Tech:** React.js • TypeScript • Tailwind CSS • REST APIs
+- **Huma-volve** — Front-End Developer Intern (2025): Collaborated on React/TypeScript products and Laravel API integrations.
+- **Information Technology Institute (ITI)** — MERN Stack Intensive Training Program (2026): Full-stack JavaScript training and team-based development.
+- **Digital Egypt Pioneers Initiative (DEPI)** — Back-End Development Training (2024): PHP and Laravel fundamentals and application development.
 
-[View Repository](https://github.com/MohammedNasr51/round-5-front-ByWay)
-
----
-
-### ✈️ Safarni — Travel Booking Web App
-
-A responsive travel-booking platform developed during my **Huma-volve Front-End Internship**.
-
-**Key Features**
-
-* Interactive booking and travel-planning interfaces
-* Dynamic content through REST API integration
-* Responsive design across different screen sizes
-* Reusable and maintainable UI components
-
-**Tech:** React.js • TypeScript • Tailwind CSS • REST APIs
-
-[View Repository](https://github.com/MohammedNasr51/round-5-front-Safarni)
-
----
-
-### 📦 InvenTrack — Inventory Management System
-
-An inventory management **Single Page Application (SPA)** developed during my **ITI training**.
-
-**Key Features**
-
-* CRUD-based inventory management
-* Products, suppliers, purchase orders, and stock tracking
-* REST API integration
-* Modular JavaScript structure
-* Client-side routing without a front-end framework
-
-**Tech:** Vanilla JavaScript ES6+ • Vite • Bootstrap • REST APIs
-
-[View Repository](https://github.com/MohammedNasr51/Inventory-System)
-
----
-
-## 📊 GitHub Stats
+## GitHub contribution streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <a href="https://github.com/MohammedNasr51">
+    <img
+      src="https://streak-stats.demolab.com/?user=MohammedNasr51&theme=dark&hide_border=true&border_radius=8&mode=daily"
+      alt="GitHub contribution streak for MohammedNasr51"
+      loading="lazy"
+    />
+  </a>
 </div>
 
----
+## Currently focused on
 
-## 🎯 Current Focus
-
-* Building scalable applications with **React.js and TypeScript**
-* Improving reusable component and front-end architecture patterns
-* Strengthening **JavaScript fundamentals**
-* Learning more about **testing, accessibility, and front-end performance**
-* Writing cleaner, maintainable, production-oriented code
+- Building robust **React and TypeScript** applications.
+- Improving **front-end architecture, accessibility, testing, and performance**.
+- Strengthening full-stack skills and delivering clearer, better-documented projects.
 
 ---
-
-## 🤝 Connect With Me
-
-I'm open to **Front-End Developer and React Developer opportunities**.
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/mnasr2002/)
-* 📧 [mnasr0868@gmail.com](mailto:mnasr0868@gmail.com)
-* 💻 [GitHub](https://github.com/MohammedNasr51)
 
 <div align="center">
 
-### Thanks for visiting! 👋
+**Open to Front-End Developer, React Developer, and junior software engineering opportunities.**
+
+[LinkedIn](https://www.linkedin.com/in/mnasr2002/) · [Email](mailto:mnasr0868@gmail.com) · [Repositories](https://github.com/MohammedNasr51?tab=repositories)
 
 </div>
