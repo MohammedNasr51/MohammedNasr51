@@ -1,0 +1,34 @@
+name: Generate profile metrics
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *' # daily, UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate real GitHub profile cards (public activity)
+        uses: tiennm99/ghstats@v1
+        with:
+          user: MohammedNasr51
+          token: ${{ github.token }}
+          out: output
+          themes: tokyonight
+          tz: UTC
+          include_forks: 'true'
+          include_private: 'false'
+          commit_changes: 'true'
+          commit_message: 'chore: refresh public GitHub contribution cards'
+          commit_branch: main
