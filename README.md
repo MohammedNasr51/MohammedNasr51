@@ -5,8 +5,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:7C3AED&height=225&section=header&text=Mohamed%20Nasr&fontSize=54&fontColor=FFFFFF&fontAlignY=37&desc=Front-End%20Developer%20%7C%20React%20%26%20TypeScript&descAlignY=58&descSize=19&animation=fadeIn" alt="Mohamed Nasr — Front-End Developer" />
 
-<a href="https://readme-typing-svg.demolab.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=670&height=48&lines=Building+thoughtful+web+experiences;React+%2B+TypeScript+%2B+modern+front-end;Turning+ideas+into+interactive+products" alt="Animated introduction" />
+<a href="https://github.com/MohammedNasr51">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3200&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=670&amp;height=48&amp;lines=Building+thoughtful+web+experiences;React+%2B+TypeScript+%2B+modern+front-end;Turning+ideas+into+interactive+products" alt="Animated introduction" />
 </a>
 
 <p>
