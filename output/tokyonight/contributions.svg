@@ -1,8 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="255" viewBox="0 0 1080 255" role="img" aria-label="GitHub Contribution Activity is not yet generated">
- <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0F172A"/><stop offset="1" stop-color="#172554"/></linearGradient></defs>
- <rect width="1080" height="255" rx="14" fill="url(#bg)" stroke="#334155" />
- <path d="M40 198L100 184L152 193L202 159L251 172L301 147L350 164" stroke="#38BDF8" stroke-width="3" fill="none" stroke-opacity="0.5" stroke-linecap="round"/>
- <text x="40" y="63" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#E2E8F0">GitHub Contribution Activity</text>
- <text x="40" y="105" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#93C5FD">Generated from public contributions (no invented data).</text>
- <text x="40" y="136" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#94A3B8">Setup: run the included GitHub Actions workflow once.</text>
- </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" font-family="'Segoe UI', Ubuntu, Sans-Serif">
+  <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#1a1b27" stroke="#1a1b27" stroke-opacity="1.00"/>
+  <text x="20" y="30" font-size="15" font-weight="600" fill="#70a5fd">Contributions (last year)</text>
+  <line x1="28" y1="45" x2="28" y2="150" stroke="#bf91f3"/>
+  <line x1="312" y1="45" x2="312" y2="150" stroke="#bf91f3"/>
+  <line x1="24" y1="150" x2="28" y2="150" stroke="#bf91f3"/>
+  <text x="22" y="153" font-size="10" fill="#bf91f3" text-anchor="end">0</text>
+  <line x1="312" y1="150" x2="316" y2="150" stroke="#bf91f3"/>
+  <text x="318" y="153" font-size="10" fill="#bf91f3" text-anchor="start">0</text>
+  <line x1="24" y1="124" x2="28" y2="124" stroke="#bf91f3"/>
+  <text x="22" y="127" font-size="10" fill="#bf91f3" text-anchor="end">50</text>
+  <line x1="312" y1="124" x2="316" y2="124" stroke="#bf91f3"/>
+  <text x="318" y="127" font-size="10" fill="#bf91f3" text-anchor="start">50</text>
+  <line x1="24" y1="98" x2="28" y2="98" stroke="#bf91f3"/>
+  <text x="22" y="101" font-size="10" fill="#bf91f3" text-anchor="end">100</text>
+  <line x1="312" y1="98" x2="316" y2="98" stroke="#bf91f3"/>
+  <text x="318" y="101" font-size="10" fill="#bf91f3" text-anchor="start">100</text>
+  <line x1="24" y1="72" x2="28" y2="72" stroke="#bf91f3"/>
+  <text x="22" y="75" font-size="10" fill="#bf91f3" text-anchor="end">150</text>
+  <line x1="312" y1="72" x2="316" y2="72" stroke="#bf91f3"/>
+  <text x="318" y="75" font-size="10" fill="#bf91f3" text-anchor="start">150</text>
+  <line x1="24" y1="45" x2="28" y2="45" stroke="#bf91f3"/>
+  <text x="22" y="48" font-size="10" fill="#bf91f3" text-anchor="end">200</text>
+  <line x1="312" y1="45" x2="316" y2="45" stroke="#bf91f3"/>
+  <text x="318" y="48" font-size="10" fill="#bf91f3" text-anchor="start">200</text>
+  <line x1="28" y1="150" x2="312" y2="150" stroke="#bf91f3"/>
+  <line x1="28" y1="150" x2="28" y2="154" stroke="#bf91f3"/>
+  <text x="28" y="166" font-size="10" fill="#bf91f3" text-anchor="middle">10/25</text>
+  <line x1="75" y1="150" x2="75" y2="154" stroke="#bf91f3"/>
+  <text x="75" y="166" font-size="10" fill="#bf91f3" text-anchor="middle">12/25</text>
+  <line x1="122" y1="150" x2="122" y2="154" stroke="#bf91f3"/>
+  <text x="122" y="166" font-size="10" fill="#bf91f3" text-anchor="middle">02/26</text>
+  <line x1="170" y1="150" x2="170" y2="154" stroke="#bf91f3"/>
+  <text x="170" y="166" font-size="10" fill="#bf91f3" text-anchor="middle">04/26</text>
+  <line x1="217" y1="150" x2="217" y2="154" stroke="#bf91f3"/>
+  <text x="217" y="166" font-size="10" fill="#bf91f3" text-anchor="middle">06/26</text>
+  <line x1="264" y1="150" x2="264" y2="154" stroke="#bf91f3"/>
+  <text x="264" y="166" font-size="10" fill="#bf91f3" text-anchor="middle">08/26</text>
+  <line x1="312" y1="150" x2="312" y2="154" stroke="#bf91f3"/>
+  <text x="312" y="166" font-size="10" fill="#bf91f3" text-anchor="middle">10/26</text>
+  <path d="M28.00,140.55 C31.94,138.80 43.78,128.48 51.67,130.05 C59.56,131.62 67.44,146.68 75.33,150.00 C83.22,153.32 91.11,158.84 99.00,150.00 C106.89,141.16 114.78,103.62 122.67,96.97 C130.56,90.32 138.44,102.66 146.33,110.10 C154.22,117.54 162.11,139.24 170.00,141.60 C177.89,143.96 185.78,124.62 193.67,124.28 C201.56,123.93 209.44,136.88 217.33,139.50 C225.22,142.12 233.11,153.59 241.00,140.03 C248.89,126.46 256.78,61.71 264.67,58.12 C272.56,54.54 280.44,104.67 288.33,118.50 C296.22,132.32 308.06,137.31 312.00,141.07 L312.00,150.00 L28.00,150.00 Z" fill="#bf91f3" fill-opacity="0.25" stroke="none"/>
+  <path d="M28.00,140.55 C31.94,138.80 43.78,128.48 51.67,130.05 C59.56,131.62 67.44,146.68 75.33,150.00 C83.22,153.32 91.11,158.84 99.00,150.00 C106.89,141.16 114.78,103.62 122.67,96.97 C130.56,90.32 138.44,102.66 146.33,110.10 C154.22,117.54 162.11,139.24 170.00,141.60 C177.89,143.96 185.78,124.62 193.67,124.28 C201.56,123.93 209.44,136.88 217.33,139.50 C225.22,142.12 233.11,153.59 241.00,140.03 C248.89,126.46 256.78,61.71 264.67,58.12 C272.56,54.54 280.44,104.67 288.33,118.50 C296.22,132.32 308.06,137.31 312.00,141.07" fill="none" stroke="#bf91f3" stroke-width="2"/>
+  <text x="170" y="184" font-size="11" fill="#bf91f3" text-anchor="middle">mm/yy</text>
+</svg>
