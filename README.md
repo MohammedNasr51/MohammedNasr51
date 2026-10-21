@@ -144,12 +144,12 @@ A collaborative inventory application built with **vanilla JavaScript (ES6+)**, 
 </div>
 <br />
 <!-- Generated daily by .github/workflows/profile-metrics.yml and committed to this repository. -->
-<a href="https://github.com/MohammedNasr51">
+<!-- <a href="https://github.com/MohammedNasr51">
   <img width="48%" src="./output/tokyonight/streak.svg" alt="MohammedNasr51's GitHub contribution streak" />
 </a>
 <a href="https://github.com/MohammedNasr51">
   <img width="48%" src="./output/tokyonight/stats.svg" alt="MohammedNasr51's GitHub contribution statistics" />
-</a>
+</a> -->
 
 <a href="https://github.com/MohammedNasr51">
   <img width="98%" src="./output/tokyonight/contributions.svg" alt="MohammedNasr51's contribution activity over the last year" />
